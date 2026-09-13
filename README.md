@@ -1,11 +1,9 @@
-# Digital-Clock
-This project is a simple digital clock application built using Python's Tkinter library. It displays the current time in a digital format, updating every second.
-Features
+# Digital Clock
 
-    Displays the current time in hours, minutes, and seconds.
-    Updates every second to reflect the real-time clock.
-    Features a clean and minimalistic design with a white background and black text.
+A desktop clock built with Python and Tkinter. It shows the current time and updates every second.
 
-Requirements
+This was one of my first Python projects, written in my first year. It is kept here as a record of where I started.
 
-To run this project, you need to have Python installed on your computer. Tkinter is included with Python's standard library, so no additional installation is required for it.
+## Running it
+
+You need Python 3. Tkinter ships with the standard library on most installs, so there is nothing to install.
