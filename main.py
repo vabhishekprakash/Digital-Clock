@@ -1,10 +1,3 @@
-
-A 400x200 window opens showing the time.
-
-## How it works
-
-`strftime` formats the current time into a string, and `label.after(1000, time)` schedules the same function to run again in one second. That reschedule is what keeps the clock live, rather than a loop.
-
 import tkinter as tk
 from time import strftime
 
